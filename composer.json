@@ -1,10 +1,10 @@
 {
-    "name": "overtrue/socialite",
-    "description": "A collection of OAuth 2 packages that extracts from laravel/socialite.",
+    "name": "lorenzen-tonna-services-ltd/socialite",
+    "description": "A fork of the original overtrue/socialite package.",
     "keywords": ["OAuth", "social", "login", "Weibo", "WeChat", "QQ"],
     "autoload": {
         "psr-4": {
-            "Overtrue\\Socialite\\": "src/"
+            "LorenzenTonnaServicesLtd\\Socialite\\": "src/"
         }
     },
     "require": {
